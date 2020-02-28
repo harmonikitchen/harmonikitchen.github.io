@@ -83,6 +83,10 @@
     padding: 30px;
 }
 
+.gallery img{
+    margin-top: -7px;
+}
+
 .menu{
     min-height: 1200px;
 }
